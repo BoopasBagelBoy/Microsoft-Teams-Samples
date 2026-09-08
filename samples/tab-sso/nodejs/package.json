@@ -21,7 +21,7 @@
   "dependencies": {
     "@azure/msal-node": "^1.14.3",
     "config": "^3.3.8",
-    "express": "^4.16.2",
+    "express": "^5.2.1",
     "faker": "^6.6.6",
     "node-fetch": "^2.1.2",
     "pug": "^2.0.0-rc.4"
