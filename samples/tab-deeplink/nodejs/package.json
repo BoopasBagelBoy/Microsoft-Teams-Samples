@@ -27,7 +27,7 @@
         "dotenv": "^8.2.0",
         "ejs": "^3.1.6",
         "express": "^4.18.0",
-        "restify": "~8.5.1"
+        "restify": "~12.0.0"
     },
     "devDependencies": {
         "eslint": "^7.0.0",
