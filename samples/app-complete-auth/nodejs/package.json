@@ -35,7 +35,7 @@
     "restify": "~8.5.1"
   },
   "devDependencies": {
-    "eslint": "^7.32.0",
+    "eslint": "^10.14.0",
     "eslint-config-standard": "^14.1.1",
     "eslint-plugin-import": "^2.25.4",
     "eslint-plugin-node": "^11.1.0",
